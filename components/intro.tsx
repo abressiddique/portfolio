@@ -34,7 +34,7 @@ export default function Intro() {
           >
             {/*dp  */}
             <Image
-               src="/sus (1).png"
+               src="./sus (1).png"
               alt="Abres siddique"
               width="192"
               height="192"
